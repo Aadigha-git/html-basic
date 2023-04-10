@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.pro{
+  margin-top: 20px;
+  font-size: 2.5rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  padding-top: 5%;
+  position: relative;
+  left: 18%;
+  width: 16%;
+ height: auto;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.top-container {
+  background-color: #A6F6F1;
+  display: block;
+  height: auto;
+}
+.mountain{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btm-cloud {
+  position: relative;
+  left: 200px;
+  bottom: 320px;
+  padding: 15px;
+  margin: 10px;
+  margin-bottom: 50px;
+  width: 16%;
+ height: auto;
+
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+/*https://colorhunt.co/palette/e8ffffa6f6f141aea9213e3b*/
